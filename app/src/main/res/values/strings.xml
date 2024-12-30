@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DZ16ContentProviderWriteContact</string>
+    <string name="infoStr">Информация  о приложении</string>
+    <string name="exit">Выход из приложения</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="phone">Телефон</string>
+    <string name="save">Сохранить</string>
+    <string name="addTime">Время</string>
+</resources>
